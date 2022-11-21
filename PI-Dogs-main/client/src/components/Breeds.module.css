@@ -1,0 +1,15 @@
+.conteiner{
+     display: flex;
+     margin: auto;
+     justify-content: space-around;
+     flex-wrap: wrap;
+}
+.sort,.paginado{
+    background-color :rgba(247, 228, 201, 0.623);
+    background-size: 10px;
+    margin: 20px;
+    padding: 1%;
+}
+.sort{
+    display:inline-block;
+}

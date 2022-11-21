@@ -1,0 +1,47 @@
+.create {
+    background-image: url('../perritos.jpg');
+    background-repeat:no-repeat;
+    background-position: 2%;
+    background-position-y: 120px;
+    background-size: 23%
+} 
+.title {
+    background-color: rgba(74, 160, 117, 0.774) ;
+    color:rgb(255, 255, 255);
+    font-family: Life of Pets;
+    font-weight:normal;
+    font-size: 90px;
+    padding-top: 20px;
+    margin-top: 1%;
+    margin-bottom: 1%
+}
+.form {
+    background-color : rgba(247, 228, 201, 0.623);
+    background-size: 10px;
+    margin: 20px;
+    padding: 1%;
+    display:inline-block;
+}
+.temperaments {
+    background-color:rgba(247, 228, 201, 0.623);
+    border-radius: 20px;
+    max-width: 1300px;
+    max-height: 300px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 40px;
+    justify-content: space-around;
+    margin: auto;
+    padding: 1%;
+}
+.send:hover {
+    background-color: rgba(74, 160, 117, 0.774) ;
+}
+
+.danger {
+    border: 1px solid red;
+}
+.dangerText {
+    color: red;
+    font-weight: bold;
+    font-size: 10px;
+}

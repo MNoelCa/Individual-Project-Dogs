@@ -1,0 +1,24 @@
+.name {
+    color: rgba(78, 78, 78, 0.904);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+}
+.info {
+    color:  rgb(78, 78, 78);
+}
+
+.conteiner {
+    border: 5px solid rgba(74, 160, 117, 0.774) ;
+    background-color:rgba(247, 228, 201, 0.623);
+    justify-content: space-around;
+    max-width: 800px;
+    max-height: 240;
+    margin: auto;
+    margin-top: 1%;
+    padding: 1%;
+  }
+.image {
+    max-width: 400px;
+    max-height: 400px; 
+}

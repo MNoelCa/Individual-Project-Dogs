@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: url(https://st3.depositphotos.com/1035449/13311/v/600/depositphotos_133115598-stock-illustration-seamless-pattern-with-dogs-flat.jpg); */
+  /* background-image: url('https://cdn.shopify.com/s/files/1/0565/7080/6458/products/cartoon-dog-portraits-mural-wallpaper-room.jpg?v=1643175357'); */
+  /* background-image: url('../src/recort.jpg'); */
+  background-color: white;
+  background-size:contain ;
+  background-repeat:repeat;
+  background-attachment: fixed;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

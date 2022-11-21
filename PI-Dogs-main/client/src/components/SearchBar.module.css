@@ -1,0 +1,25 @@
+
+.conteiner {
+    border: 1px;
+    /* background-image: url('https://i.pinimg.com/originals/6c/df/73/6cdf73d9e431c73c00d4cc06c21549d9.jpg');
+    background-size:cover; */
+    border-radius: 20px;
+    max-width: 1300px;
+    max-height: 300px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 40px;
+    justify-content: space-around;
+    margin: auto;
+    padding: 1%;
+}
+.temperaments{
+    background-color:rgba(247, 228, 201, 0.623);
+    border-radius: 20px;
+    max-width: 1300px;
+    max-height: 300px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 40px;
+    justify-content: space-around;
+    margin: 1%;
+    padding: 1%;
+}
